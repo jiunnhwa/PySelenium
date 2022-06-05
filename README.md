@@ -3,6 +3,9 @@ Python-Selenium Browser and Test Automation.
 
 The below are some sample sites scaped.
 
+## Roadmap
+
+- Add more sites progressively, such as Shoppee, etc
 
 <hr>
 
